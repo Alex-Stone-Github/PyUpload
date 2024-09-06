@@ -1,2 +1,2 @@
-# ttan
-This is some of the code for a tracking order algorithm I am playing with.
+# PyUpload
+This is a project which attempt to make the upload of python code to a roborio as easy as possible.
